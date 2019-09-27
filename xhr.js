@@ -1,6 +1,6 @@
-
+//This creates the request for to the 
 let xhr = new XMLHttpRequest();
-
+//Requests that information be rhe 
 xhr.open('GET', 'https://reqres.in/api/unknown');
 xhr.send();
 
