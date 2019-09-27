@@ -1,7 +1,7 @@
 
 //Where it is fetching the data from
 const fetchPromise = fetch("https://ghibliapi.herokuapp.com/people");
-//The element in the HTML doucment in which the data is being put into 
+//The element in the HTML document in which the data is being put into 
 const main = document.getElementById("main");
 
 //
